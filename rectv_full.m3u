@@ -275,6 +275,10 @@ https://tv.arectv34.sbs/live/docubox.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="EKOL TV" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/jpg/2adaac7b2a1e39ca67dc34115ce40f3c.jpg" group-title="Canlı Yayınlar", EKOL TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="DMAX HD" tvg-logo="https://m.prectv50.sbs/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="Canlı Yayınlar", DMAX HD
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -475,6 +479,30 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9180" tvg-name="Kurtlar Kapıda" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/02dcd95de83608dcaec0ca0a23b603c2.jpg" group-title="Son Filmler", Kurtlar Kapıda
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/gHnUNVj31N1qbvxLcKExSzDgPlPJprzd8jf07YIj.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9179" tvg-name="Hostile Takeover" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cd5ddd476a242271bb430bc9d3bfeb48.jpg" group-title="Son Filmler", Hostile Takeover
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/b7tu5ZnJMmfKeP7EvwFkLcShfLmlvhQCNPp4i3pK.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9178" tvg-name="Neighborhood Watch" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3d62dca5c15a707b702ffd9a296fc825.jpg" group-title="Son Filmler", Neighborhood Watch
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/GJZkQcJL4aRAs1ijHNoGrevA1BgRW81mmhPQigeB.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9177" tvg-name="Birthrite" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/52a63ad50556f68d3d35beee334dab39.jpg" group-title="Son Filmler", Birthrite
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/YQJiINm2CZssXxtB2tIx9zvJFedWSWT1emA5g2zk.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9176" tvg-name="Shaman" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c4633f61b68fed457d597aed8f65be14.jpg" group-title="Son Filmler", Shaman
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/hxFaJmNxuM0DlSlNHSn0cxUXU7xF4SOwsdA8o1MX.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9175" tvg-name="Abraham's Boys: A Dracula Story" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e749bd8cd188f9b7128684cd0c1cd678.jpg" group-title="Son Filmler", Abraham's Boys: A Dracula Story
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/meMaK0QvCUuoImYp2Xuif9ePPCjyLgKDMJAEHAFd.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9173" tvg-name="Land of Bad" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3de330eedf452aa9e502036b1a8a66a4.jpg" group-title="Son Filmler", Land of Bad
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1235,290 +1263,6 @@ https://load.rectv2024live.com/hls/8/cdn1611/YF18NTnvL3g7mvk0NB2niFzBjDGBi3vMTzr
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/8/cdn1611/QJlf5exzv7AP6LzjYcSkPocwWUFp8vdb1wQxFUnZ.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8932" tvg-name="Mountainhead" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4a7bea56493448bef7adf9fe117db2d5.jpg" group-title="Son Filmler", Mountainhead
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/P6nUn0YZL22HBY1YiiNXNqGl40e37PrbHMi2YGNb.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8931" tvg-name="Diablo" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8b59ff4a077593bbca4d6f4ff4e6985f.jpg" group-title="Son Filmler", Diablo
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/vmTfwupanUCJQQBeP4737K9YUgA4kSe4EjkAiypS.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8930" tvg-name="Alappuzha Gymkhana" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/81f8bb8d68434f059d4d9e4051b89ef3.jpg" group-title="Son Filmler", Alappuzha Gymkhana
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/2UnCjwu1xX3LxWYyNyEjuHFNBaQDZK6MuEEeD6j2.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8929" tvg-name="Morgan: Killer Doll" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/94941c6008cc3146d43c23d8fb6d6c09.jpg" group-title="Son Filmler", Morgan: Killer Doll
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/xyzHDeCzICBVNTPnmZntwTnkOL7zGOMyQZCVgyWD.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8928" tvg-name="Ejderhanı Nasıl Eğitirsin" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/60c5cf99b23434aa6885477b1261505e.jpg" group-title="Son Filmler", Ejderhanı Nasıl Eğitirsin
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/kwHnDXjBQKAVws5s5ZARgEJgHwjuL2NkQugvPThC.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8928" tvg-name="Ejderhanı Nasıl Eğitirsin" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/60c5cf99b23434aa6885477b1261505e.jpg" group-title="Son Filmler", Ejderhanı Nasıl Eğitirsin
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/SIKweLcnbxTEwfxy39zT8lZrdi2u346IDP1oisYL.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8926" tvg-name="Kefenler - The Shrouds" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/661b9e68085cc13705eab831216f878b.jpg" group-title="Son Filmler", Kefenler - The Shrouds
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/WSfHtTNDkGCArAQryKCR6ulJH9NUKRrcUyyhS2RM.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8924" tvg-name="Şeytan Ayini" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/166265bc9dd60092728c27c63a92d06d.jpg" group-title="Son Filmler", Şeytan Ayini
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/A8n0TGXllhvlocoFpCDhkedRwvdhyAuqAOn5dve0.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8924" tvg-name="Şeytan Ayini" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/166265bc9dd60092728c27c63a92d06d.jpg" group-title="Son Filmler", Şeytan Ayini
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/VoPZLJtlcdh2jAiBuY3sFGuKKGee32cq5RoG7IC1.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8923" tvg-name="Clown in a Cornfield" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/72c84523e5717d252911e2168189399a.jpg" group-title="Son Filmler", Clown in a Cornfield
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/qTsO3O7n8jRgmbksAyQfDVgbUx8DiwSIrB9MlH76.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8922" tvg-name="Cells At Work!" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0332641b92f20d46993dc37a12cf2c61.jpg" group-title="Son Filmler", Cells At Work!
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/0vC3E13YdDBcUAeNVwSo4vXKAKoLGAOsskzRAX8K.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8921" tvg-name="Bleeding" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/090f9513203aa6b0989db13e0385d863.jpg" group-title="Son Filmler", Bleeding
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/NtQ3CYz4JlQ65ee779V3EEGSggynLtEHkEi2wWKs.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8920" tvg-name="Tur Rehberi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/72b1880477d9063aae7646a3c189378d.jpg" group-title="Son Filmler", Tur Rehberi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/NtQ3CYz4JlQ65ee779V3EEGSggynLtEHkEi2wWKs.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8919" tvg-name="Gizli Görev - Deep Cover" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8c5bfe9f3f1b96013e9415ce615a15ed.jpg" group-title="Son Filmler", Gizli Görev - Deep Cover
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/ixnqO54XGHTO3c89U966m0uCnqrxeyXUd4Cpt0Hq.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8917" tvg-name="Tanımlanamayan" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0afafd7a08fcafa7da250470094352b0.jpg" group-title="Son Filmler", Tanımlanamayan
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/A4Vyuwiv4a3NsyUsyNHZueEQt9mascApKlZjYHKL.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8916" tvg-name="Karantina" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/09d4c2fd73da66a8e9597af08fd8b240.jpg" group-title="Son Filmler", Karantina
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/iLOynOM1U1SOGOSXu4FoxltwkdWfD4cUpKNN11NE.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8915" tvg-name="ASTROWORLD FACİASI" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b937894f3784b05acc15fe59356bafb9.jpg" group-title="Son Filmler", ASTROWORLD FACİASI
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/UUUBvC06MwzewCHLupcvz0AsTU5jJhs2A7frP6bZ.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8914" tvg-name="Hurry Up Tomorrow" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1d4e6e908a33f56aa7f79dbe58275bc6.jpg" group-title="Son Filmler", Hurry Up Tomorrow
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/RTUUndIIVEGva79mxOigXsSICBknwEuidHSxtvY8.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8913" tvg-name="Hayat Budur!" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/90a3990ecc9c877b096d2f27f7aabfbe.jpg" group-title="Son Filmler", Hayat Budur!
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/aDHMvC1J7KVyFQDhH6GYB90g4rncA6sz33Nwu8An.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8912" tvg-name="Sew Torn" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/85458c0d4be031100376f9e102fe45f4.jpg" group-title="Son Filmler", Sew Torn
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/2u7x148xZxJZokBwfEzO4wmHkUJAxDJ0nKRokkp6.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8910" tvg-name="My Old Ass" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/bfb81f1a6e88f5db074f1e615093ab86.jpg" group-title="Son Filmler", My Old Ass
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/4nA5cKBozlQhDYI19zYuNrntr4S2cKPDFCrGD9DX.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8909" tvg-name="Viva a Vida" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ac995208ed950e6eec6c9b0428cf15a3.jpg" group-title="Son Filmler", Viva a Vida
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/Wdxf9Hv19st5Eusixbf4cfeOYYtUrNN1y3BtjCjs.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8907" tvg-name="Dangerous Animals" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/270656970c3f3de9086f27a391388c85.jpg" group-title="Son Filmler", Dangerous Animals
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/asmEJM5Xe52suP6R9DCCfGeT9TIuph5xEP99MIZ3.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8906" tvg-name="Pengantin Iblis" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/562466687a2d7fff3679f6ac98da9d57.jpg" group-title="Son Filmler", Pengantin Iblis
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/oSXqa3hs7Yon7nMYzgLkFOoZ7SfBoQEaMmfrX72l.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8905" tvg-name="Kusursuz Arkadaş - Companion" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c2d546b223053ef3ecab4fec9e4c07a9.jpg" group-title="Son Filmler", Kusursuz Arkadaş - Companion
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/MYLRYmOCiKlZ1Yyh87GtJL9Ax20xYPPtCCt5cosc.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8905" tvg-name="Kusursuz Arkadaş - Companion" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c2d546b223053ef3ecab4fec9e4c07a9.jpg" group-title="Son Filmler", Kusursuz Arkadaş - Companion
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/8bKXL7d5LxrQtfQrBpDCNmAtZXcgxnvbVnvJGfGE.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8904" tvg-name="David Attenborough ile Okyanuslar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c3509252ff577ad7e4eb8a80425705ad.jpg" group-title="Son Filmler", David Attenborough ile Okyanuslar
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/gVHV5txnRtocXNIh6j7dYoL9JLPyg4EiuKhdjFPy.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8903" tvg-name="The Power of the Dog" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/257cf6da7a55649d97ead82bd401d6d3.jpg" group-title="Son Filmler", The Power of the Dog
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/xcMxVe6O5DnpP0JDluiB0HFz0cQVfK9cZkKWvWFm.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8902" tvg-name="Oda" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3db41300b4549d90fe11eca58e7b3ca0.jpg" group-title="Son Filmler", Oda
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/4ChhB4HPk2BmgDPUZ6GJ21OMsYiOAipGPiv3bedv.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8899" tvg-name="Her Şeyin Başı Merkür" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ad5cffec6accdd152f04fbaf923831d2.jpg" group-title="Son Filmler", Her Şeyin Başı Merkür
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/NvTQXho3CgeIIjibDAYAe35WIlmQbCMmJ1QCJRZQ.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8898" tvg-name="The Alto Knights" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d4e962d2fdb29f246b6fe830673d1a25.jpg" group-title="Son Filmler", The Alto Knights
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/EuR4lfutbDE3X9zbmemBo0tM5bCgv7sV7aoPhar2.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8898" tvg-name="The Alto Knights" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d4e962d2fdb29f246b6fe830673d1a25.jpg" group-title="Son Filmler", The Alto Knights
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/iySLxRGvAnGgcsubAftMhOJY9RCwMybcqQfidoeU.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8897" tvg-name="Son Damla" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c1a3aad647b3f397926cb626d981c910.jpg" group-title="Son Filmler", Son Damla
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/8jtYrwvj6GWqDH6HmfmIeDOmiLDCDZsm3PHJMCKS.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8896" tvg-name="Nakavt" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ab0541451001a43e6e75a6e543bd93e0.jpg" group-title="Son Filmler", Nakavt
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/UhdjL8qYYtjz5ea1D3E63itHB5Us1sX7LBs8CPIf.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8895" tvg-name="Predator: Killer of Killers" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cb50e4becf0a5735fd4894d7ae24a020.jpg" group-title="Son Filmler", Predator: Killer of Killers
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/eGS9mNyWSDY8ecKYVHLyIHu6PlvUgdhmN40wZFCr.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8895" tvg-name="Predator: Killer of Killers" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cb50e4becf0a5735fd4894d7ae24a020.jpg" group-title="Son Filmler", Predator: Killer of Killers
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/DK6a71PGUXxAwJiauokC2tVxZ4Dj8TyHGFCw7ys1.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8894" tvg-name="Günahkarlar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3fadb1453f203c94522ec3788706d265.jpg" group-title="Son Filmler", Günahkarlar
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/g30oON57fvU4yYW8rsgM3xZdXF62GuIK9vLb9LHy.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8894" tvg-name="Günahkarlar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3fadb1453f203c94522ec3788706d265.jpg" group-title="Son Filmler", Günahkarlar
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/fGByiSNWe8MuLuJ8KVAG0JKGrRAGqDbsfulN6BQG.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8893" tvg-name="Salem's Lot" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2175a9815fcb37a3715dc4220c37ae53.jpg" group-title="Son Filmler", Salem's Lot
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/91q4FpVcgGUHfoZuKI9ZwqTQWpN27vGis8XtOZ6u.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8892" tvg-name="Hesaplaşma 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7fa7fd30af83fdb9e1cc2faa007f1d29.jpg" group-title="Son Filmler", Hesaplaşma 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/vcIQpXnEWW8DuzVSlIoMSSrrRfP6qoo7TVB3iuPJ.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8891" tvg-name="Caddo Lake" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/625b616f8ac95fd1b23c24c50ef1d3e3.jpg" group-title="Son Filmler", Caddo Lake
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/OeZmnlz4DrDlfL0InqjdOiPesNnEHreildy1WEWA.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8890" tvg-name="Çirkin Üvey Kardeş" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/de52d05e8c7ea339d157b8ceb568f305.jpg" group-title="Son Filmler", Çirkin Üvey Kardeş
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/WxZ224oShoA02F38ZV2HIanaYNaC5yoY4t16EJiq.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8889" tvg-name="Onu Geri Getir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3209d005cec86837e308a566524499d4.jpg" group-title="Son Filmler", Onu Geri Getir
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/h2HJFtsFB6VCLIMdPi08WQFc2W7mSwZj3DVy1Den.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8887" tvg-name="Greedy People" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cacf34d40fbebb823e032ea51126238b.jpg" group-title="Son Filmler", Greedy People
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/YnXGA6eNJGAl2bpILAdlREanvKJdGFLJ82VPD6v3.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8886" tvg-name="Turtles All the Way Down" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0b35ae420e69595ec2a5015a401883f6.jpg" group-title="Son Filmler", Turtles All the Way Down
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/YJlIblzoa5MJhh3WmXz36Go8ih9Dif9Z1qO2L9if.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8885" tvg-name="Sweethearts" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8766e732f23a52dc092165ae75ce0690.jpg" group-title="Son Filmler", Sweethearts
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/0E5XyRpP63Tq4IxsxLdqNywRxRi8paxiAfH4Knbq.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8884" tvg-name="Am I OK?" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7f84368adad77d4f99c6c683a7c876a2.jpg" group-title="Son Filmler", Am I OK?
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/DJmOjCoM6n1NNhdZqxVCvU2sAWF9ZXBoXRvePOD1.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8883" tvg-name="The Devil's Climb" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/93477a02ffafd1c51df2a5b29fd7e081.jpg" group-title="Son Filmler", The Devil's Climb
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/A31mvuWP8NILk2DfnDJNidzfEqCo3HUBizwt2uDT.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8882" tvg-name="Ana Vadi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c6d4b75661b71527d55f7e7b08cca407.jpg" group-title="Son Filmler", Ana Vadi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/UMwZUtUjWNPOtRvAuedaHyihqMT6Nk5wCjzfA4VU.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8881" tvg-name="Her Şey Dahil" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c5bb91441492abf5022394acce6910ed.jpg" group-title="Son Filmler", Her Şey Dahil
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/YnVFc8iVz7KzzLqPX4ot7yAUSBwTAwsh7thoK37r.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8880" tvg-name="Seven Veils" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a5ee57086578c5ac977fc2220906535b.jpg" group-title="Son Filmler", Seven Veils
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/6yD3GFaI74NJoof70i9N2TmfpofpMevr9OYc6sr4.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8879" tvg-name="The Flood" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/65b23517f1d5f03673db211302dd6f6f.jpg" group-title="Son Filmler", The Flood
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/o8nO25q0FHeBHkqROwMqd0HJxnbFYjLMKXG5pd3X.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8878" tvg-name="Oh, Canada" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8ebe8ae766311f16a6d0c36a57070757.jpg" group-title="Son Filmler", Oh, Canada
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/krIPHUk6JJT5B0yRbkeIvkVl6q6VYQGHcNqDbv8B.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8877" tvg-name="Göktaşı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3fdeee3f01d88e5b8884a37671fb3899.jpg" group-title="Son Filmler", Göktaşı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/MeFDYFS5JxdbMB0XlyJQ3ujjne7ljk74MqZqE747.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8876" tvg-name="The Severed Sun" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b63942bb6852c97fac405c0a434808bb.jpg" group-title="Son Filmler", The Severed Sun
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/uUaYSrWj2MZaCZy5oGQcGrpcVPCcRYYMlQaLBOk4.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8875" tvg-name="Babamın Hazinesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a8799b39c65a163d0d8c7ac78cadb910.jpg" group-title="Son Filmler", Babamın Hazinesi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/cLZ6ABe0bowdpLWq72gCKcZLKbxJ8slGBuMOQW3J.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8874" tvg-name="Ben Tamamen İyiyim" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/56e61519b1c9c8b6710f45092a06f64d.jpg" group-title="Son Filmler", Ben Tamamen İyiyim
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/ZCfAH4jcvMeqIbo81DXZHD5bXFxZtzIj6ySMqz0i.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8872" tvg-name="Mountainhead" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b3299d4af8488772177ced844ddd9d61.jpg" group-title="Son Filmler", Mountainhead
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/V3iDk9OHF0Ejt5RLvoIayxnaOe43zOwXa8M6EVXs.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8871" tvg-name="Canavar Projesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9d921bf450b3df29ed4dfad0aab54249.jpg" group-title="Son Filmler", Canavar Projesi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/LbQPC8GYYmVfd7Tivd5nZ2Atm0ItNudDrMvwWVdz.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8870" tvg-name="Beni Eve Getir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fff87fabbe1ec24c2b1a6b806f0b88aa.jpg" group-title="Son Filmler", Beni Eve Getir
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/4I3MUJGRDHCDkqBs0gf1NDmmRmcNWClma6pnO6XZ.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8869" tvg-name="Söylenti" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fddd2310bc896dafe49d14d97e19c166.jpg" group-title="Son Filmler", Söylenti
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/fD11kBsnimkVke6P6rJoiv0MF070MSNFovJ2czaP.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8868" tvg-name="Un Mariage sans fin" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0e3796b6756d143583acad36bb4984eb.jpg" group-title="Son Filmler", Un Mariage sans fin
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/c4vNbeM7g5qAIbsg9iCwUGDDf1uu39GylPONFj6r.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8867" tvg-name="Öldüm Bittim" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9e17c6d561388d1b26f3755666609ff2.jpg" group-title="Son Filmler", Öldüm Bittim
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/IogUVxFhHW7p3YrE4G4VUFfeT4XW2TRKUgfYdb7U.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8865" tvg-name="Titanik: Dijital Diriliş" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d619601c388e4c4de6194da96ecf1ca1.jpg" group-title="Son Filmler", Titanik: Dijital Diriliş
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/jgokzRzJ8wDrNjAvvFTB5azViDmT5X6Udi5lISju.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8864" tvg-name="Mezuniyet Gezisi: Mallorca" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/85efa96ba38908f009d9e4567546ae5d.jpg" group-title="Son Filmler", Mezuniyet Gezisi: Mallorca
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/KxwezPx8E2o18rtUMTV43j1BBZh4DoIsDNfcJPpT.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8863" tvg-name="Çakallarla Dans 7" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e2e4718d091f770c91a6dab795958a04.jpg" group-title="Son Filmler", Çakallarla Dans 7
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/bOp21ZS0VOXUX5zrjnoT9Ke4o4ZJXqIKNCcjSQyv.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8860" tvg-name="Night of the Hunted" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1278e83e2bd58d102d40ff876f34b08f.jpg" group-title="Son Filmler", Night of the Hunted
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/WFz4xm4P4pGh8Dl4ismFH6zqos28uQ31uGQeDD2w.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8856" tvg-name="Daha İyi Bir Yarın" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f7daf086ec4cc0ceafca3242f399248e.jpg" group-title="Son Filmler", Daha İyi Bir Yarın
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/dkj6xxZS3jALB67GwojqBFW36lI750mga1zXepdA.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8855" tvg-name="Horoz Dövüşü" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/004ac2261ac0f59d2553e8c538c2986b.jpg" group-title="Son Filmler", Horoz Dövüşü
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/oGCin23xOdIeaqfFGA8ELwGV5O5LEG8tZKJwp7mE.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8854" tvg-name="Kurt Adam - Wolf Man" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a770b8dd8a5077b3f98530423506b7d2.jpg" group-title="Son Filmler", Kurt Adam - Wolf Man
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/4gPwDl0cJcpGBaTG9zqIinKvWDZXCDeMvelaNr6G.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8853" tvg-name="Don't Buy the Seller" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/44913919f5c5e705beb7a6bf6b500b8b.jpg" group-title="Son Filmler", Don't Buy the Seller
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/8/cdn1611/RcnVAiyUsze9SM2icCpnNWyxxoBwTMKoFhulcz7w.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9169" tvg-name="Rafadan Tayfa: Kapadokya" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd0b1c0317bf82033e01f272f80873a0.jpg" group-title="Aile", Rafadan Tayfa: Kapadokya
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -1775,142 +1519,6 @@ https://load.rectv2024live.com/hls/11/cdn169/4bf29e0396f8bdf022d6041d83545efa173
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn169/c131c3740a9db6b6892659983f9ac5fe173365033711.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8106" tvg-name="Bir Zamanlar Noel'de" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/868aa2de72700d423ab1fd94a408b01b.jpg" group-title="Aile", Bir Zamanlar Noel'de
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn169/f96b94e1c0ca4a2b611490a0baf5a2ae173333193813.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8091" tvg-name="Kardan Kız Kardeşim" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b5c0240fc8fb923cd30c396949bada22.jpg" group-title="Aile", Kardan Kız Kardeşim
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/89565025d010934ebb3ea562ef80a1b017329000428.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8065" tvg-name="Penguen Arkadaşım" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/082337bfd7a132716e84b3b5260ab4c0.jpg" group-title="Aile", Penguen Arkadaşım
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5877522c3aecd79a7e24214ca33d0e0f173244176315.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8055" tvg-name="Büyülü Ailem" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a7fde4fd2ef94d1c2eddf5290c6f0f65.jpg" group-title="Aile", Büyülü Ailem
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/961225300ca0889cebed672c3443dbb6173227355712.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8053" tvg-name="Şarkını Söyle: Thriller" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0d6689266afdefe2c8ff3df5a0cf8c0d.jpg" group-title="Aile", Şarkını Söyle: Thriller
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/776922f280a72276162e7711ac00766f173227025211.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8046" tvg-name="Çılgın Hırsız 4" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5170c9976ae43119f106108471a48bb4.jpg" group-title="Aile", Çılgın Hırsız 4
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/734d8ddd428e690f21502fa552d0ec4d17321826986.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8046" tvg-name="Çılgın Hırsız 4" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5170c9976ae43119f106108471a48bb4.jpg" group-title="Aile", Çılgın Hırsız 4
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/0c28b181929f25710380273427481d38173218253413.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8008" tvg-name="Çilek Kız ve İlkbahar Eğlencesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7f3da04d6b8ebc26b56207dd484ee237.jpg" group-title="Aile", Çilek Kız ve İlkbahar Eğlencesi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/9ad1fc65c79270d8abbf977926db6ecf173106195615.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7997" tvg-name="Meraklı Kedinin 10 Yaşamı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/69c27fceca6fd3687274765a1012d215.jpg" group-title="Aile", Meraklı Kedinin 10 Yaşamı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/31764edffbb0b404d8542d28d1b72b7a173080535014.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7995" tvg-name="SpongeBob Squarepants: Kreepaway Kamp" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/87bf29b61cd2f0e6149deccc28263344.jpg" group-title="Aile", SpongeBob Squarepants: Kreepaway Kamp
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/ffb2dc4fc800560d81b47832617c102717306458936.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7975" tvg-name="Harold ve Mor Tebeşir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/507f9be223182ad31831b3621b192d54.jpg" group-title="Aile", Harold ve Mor Tebeşir
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/1295c2dcac259fb847ea9e2b3152e94f173019419211.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7975" tvg-name="Harold ve Mor Tebeşir" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/507f9be223182ad31831b3621b192d54.jpg" group-title="Aile", Harold ve Mor Tebeşir
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5a5412d4587fdc635e03de8af886e83017301942058.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7955" tvg-name="Transformers: Başlangıç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9296ae85e8aadb123d44b338e974d9f9.jpg" group-title="Aile", Transformers: Başlangıç
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/ae83f24364d74715e6d4b787e2b74474172959560614.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7925" tvg-name="Casusluk Yapacak Zaman Yok: Bir Loud House Filmi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/003f4d6fc5ebf979d8e93ddc3964babd.jpg" group-title="Aile", Casusluk Yapacak Zaman Yok: Bir Loud House Filmi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/0bbc9380cd59783d3a8690869f4d2f4617292444469.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7924" tvg-name="Rafadan Tayfa 4: Hayrimatör" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1b7195f2b4faa868f953676ff497d0c0.jpg" group-title="Aile", Rafadan Tayfa 4: Hayrimatör
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/42bc7cdbd0c7cce9869a0bfbf06e2356172924440010.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7923" tvg-name="Johnny Puff: Secret Mission" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0af34a9af59336d83ea7bd918311080b.jpg" group-title="Aile", Johnny Puff: Secret Mission
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5399bf1bc8fc516a6ecd270da1aa9a8117292444877.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7911" tvg-name="Şarkını Söyle: Thriller" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/99fb1e6658b46a41a83d4d1394a60963.jpg" group-title="Aile", Şarkını Söyle: Thriller
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/776922f280a72276162e7711ac00766f17290751879.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7910" tvg-name="Bookworm" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2d6f7dd8a0a4196f5f1234d2e1c1210f.jpg" group-title="Aile", Bookworm
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5636819c12c41a1a3739c05899532e8217290751668.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7908" tvg-name="Vahşi Robot" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9fac4f3b3e2119693ff08e151acaa649.jpg" group-title="Aile", Vahşi Robot
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/3c6fe092a824efad0ab04e8a72273a3d173263548712.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7892" tvg-name="Hayali Arkadaşlar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/113a636e3f20a0487279770c75acf401.jpg" group-title="Aile", Hayali Arkadaşlar
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/d74592fbc56d5dc7c833950b94ec83da17288975205.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7868" tvg-name="The Forge" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/406213cd7e022c013cfe501b60fad290.jpg" group-title="Aile", The Forge
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/56fda92b023e9a8b7638a85f6ecdee3117284074075.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7864" tvg-name="Oyuncaklar Firarda" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ccadb5fe279e5f25c5f0a75f29894bb2.jpg" group-title="Aile", Oyuncaklar Firarda
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/9313eb975e24ce76d47a2f5ec9d27077172838101310.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7849" tvg-name="The Adventures of Jurassic Pet 2: The Lost Secret" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8160e98d48be8beb29780900ef11d3ba.jpg" group-title="Aile", The Adventures of Jurassic Pet 2: The Lost Secret
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/a8f98e55bc7bb205adaba0da0bdce5b0172814077310.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7849" tvg-name="The Adventures of Jurassic Pet 2: The Lost Secret" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8160e98d48be8beb29780900ef11d3ba.jpg" group-title="Aile", The Adventures of Jurassic Pet 2: The Lost Secret
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/ba466142a6a4b61df8718f3daeb81c9a172814080010.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7800" tvg-name="Guardians of Time" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9ee820685141dc12356768203c090d69.jpg" group-title="Aile", Guardians of Time
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/43809b8cd4e235a905f1080eebe242b117274423425.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7794" tvg-name="Tombul Mombul Takımı: Sırt Sırta" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4886428ab69564221184cae400a5e030.jpg" group-title="Aile", Tombul Mombul Takımı: Sırt Sırta
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/3b61ce667e333adf0f71f7724555acc4172734996814.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7787" tvg-name="Ters Yüz 2 (HD)" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f6d0022a24b834644ee2d85ecb9d408f.jpg" group-title="Aile", Ters Yüz 2 (HD)
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/13cb2864644e0a59aae7c986fc1e78b317272600597.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7787" tvg-name="Ters Yüz 2 (HD)" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f6d0022a24b834644ee2d85ecb9d408f.jpg" group-title="Aile", Ters Yüz 2 (HD)
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/8a08bc1110134c90dc7779b55533256017272601155.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7759" tvg-name="Lassie - Ein neues Abenteuer" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/11d8cde3e969f1d5f7b808f001b11b7b.jpg" group-title="Aile", Lassie - Ein neues Abenteuer
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/6080337951ed702030ded31358945054172656548810.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7666" tvg-name="Kuzenler Firarda" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9f89d62c8c7de638ea183440ee8bc679.jpg" group-title="Aile", Kuzenler Firarda
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/de797b33994f8e8396abba9736bf5d1e172465502113.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7658" tvg-name="Define Gezegeni" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/91f5f80c378afb7ba28e6f47010479ab.jpg" group-title="Aile", Define Gezegeni
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/a99bb21a76eab31946e5980df9a904ff17244973778.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7656" tvg-name="Dünyanın Merkezine Yolculuk" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/abce33dbc963198473fbb45df994e169.jpg" group-title="Aile", Dünyanın Merkezine Yolculuk
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/3e396f20eca019a638ed5b76e58f1a91172447551614.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7644" tvg-name="Ters Yüz 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/aaf40f5203bfddbc4bce97da39ef7613.jpg" group-title="Aile", Ters Yüz 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/13cb2864644e0a59aae7c986fc1e78b3172433805613.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7642" tvg-name="Kung Fu Panda 4" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9fd4bda00f3175ec656702727b9e6c52.jpg" group-title="Aile", Kung Fu Panda 4
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/bd01fd6eda95f9a9e77abe13cb64913d172433798812.mp4/index.m3u8
 #EXTINF:-1 tvg-id="7621" tvg-name="Kahraman Kuyruklar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4d7234a67c9d83973fedcb6d8d7ec993.jpg" group-title="Aile", Kahraman Kuyruklar
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -2539,6 +2147,10 @@ https://load.rectv2024live.com/7/cdn812/m/SuperMarioKardesler/v.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn812/m/Uunchai/v.m3u8
+#EXTINF:-1 tvg-id="9179" tvg-name="Hostile Takeover" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cd5ddd476a242271bb430bc9d3bfeb48.jpg" group-title="Aksiyon", Hostile Takeover
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/b7tu5ZnJMmfKeP7EvwFkLcShfLmlvhQCNPp4i3pK.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9173" tvg-name="Land of Bad" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3de330eedf452aa9e502036b1a8a66a4.jpg" group-title="Aksiyon", Land of Bad
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -3643,10 +3255,6 @@ https://load.rectv2024live.com/hls/9/cdn501/1587a131e546a5770c311876c1192a501725
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/9/cdn501/9dd306ad20b170fa242960987ce8acba172561727713.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7699" tvg-name="97 Dakika" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0205111c88d6873dc53c2f06725fa335.jpg" group-title="Aksiyon", 97 Dakika
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/6e8e3152552047462a898df856d479d817254804495.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9169" tvg-name="Rafadan Tayfa: Kapadokya" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fd0b1c0317bf82033e01f272f80873a0.jpg" group-title="Animasyon", Rafadan Tayfa: Kapadokya
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -4399,142 +4007,6 @@ https://load.rectv2024live.com/hls/1/cdn783/m/4/KarlarKralicesi.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/7/cdn871/m/karlarkralicesi/v.m3u8
-#EXTINF:-1 tvg-id="5759" tvg-name="Benim Tatlı Diş Perim" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e43b9909c29b8a3ed40234ff6f818f3b.jpg" group-title="Animasyon", Benim Tatlı Diş Perim
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/MeineChaosfeeich/v.m3u8
-#EXTINF:-1 tvg-id="5690" tvg-name="Mucize: Uğur Böceği ile Kara Kedi, Film" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2e90b3fe885050a8888fbc655ff0da60.jpg" group-title="Animasyon", Mucize: Uğur Böceği ile Kara Kedi, Film
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/MucizeugurBocegiileKaraKedi/v.m3u8
-#EXTINF:-1 tvg-id="5683" tvg-name="Carl's Date" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cd922c992c1169a05531b5a889646bb7.jpg" group-title="Animasyon", Carl's Date
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/CarlsDate/v.m3u8
-#EXTINF:-1 tvg-id="5663" tvg-name="Örümcek-Adam: Örümcek-Evrenine Geçiş" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d8a7003f62e87abdf5d7cdcbbf710fd3.jpg" group-title="Animasyon", Örümcek-Adam: Örümcek-Evrenine Geçiş
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/OrumcekAdamOrumcekEvreni/v.m3u8
-#EXTINF:-1 tvg-id="5619" tvg-name="Süper Mario Kardeşler Filmi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ac13fbc81e5ac8affd4ed0bcd3d0b1ef.jpg" group-title="Animasyon", Süper Mario Kardeşler Filmi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/new/SuperMario.mp4/index.m3u8
-#EXTINF:-1 tvg-id="5582" tvg-name="LEGO Disney Princess: The Castle Quest" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ff93929821f641e3d617e4cf95abfa56.jpg" group-title="Animasyon", LEGO Disney Princess: The Castle Quest
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/LEGODisneyPrincess.mp4/index.m3u8
-#EXTINF:-1 tvg-id="5572" tvg-name="Maymun Kral" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/63b2ea5c4d4bb2249dae5519f650bb37.jpg" group-title="Animasyon", Maymun Kral
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/1/cdn783/m/TheMonkeyKing.mp4/index.m3u8
-#EXTINF:-1 tvg-id="5555" tvg-name="Arı Maya 3: Altın Küre" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/9272bf81a0caed205d418b3a28f61296.jpg" group-title="Animasyon", Arı Maya 3: Altın Küre
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/arimaya3/v.m3u8
-#EXTINF:-1 tvg-id="5545" tvg-name="Cesur İtfaiyeci" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/93b5dc8119c43acbf6dbb3ac5c8c19b4.jpg" group-title="Animasyon", Cesur İtfaiyeci
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/fireheart/v.m3u8
-#EXTINF:-1 tvg-id="5545" tvg-name="Cesur İtfaiyeci" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/93b5dc8119c43acbf6dbb3ac5c8c19b4.jpg" group-title="Animasyon", Cesur İtfaiyeci
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/fireheartalt/v.m3u8
-#EXTINF:-1 tvg-id="5541" tvg-name="Ninja Kaplumbağalar: Mutant Kargaşası" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1c469875d12fd2d85e3089a52675b02a.jpg" group-title="Animasyon", Ninja Kaplumbağalar: Mutant Kargaşası
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn871/m/NinjaKaplumMutant/v.m3u8
-#EXTINF:-1 tvg-id="5529" tvg-name="The Seven Deadly Sins: Grudge of Edinburgh Part 2" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/07ed9157c8eb8166a9caebba8a1bd344.jpg" group-title="Animasyon", The Seven Deadly Sins: Grudge of Edinburgh Part 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/thesevendeadlysins2/v.m3u8
-#EXTINF:-1 tvg-id="5528" tvg-name="The Seven Deadly Sins: Grudge of Edinburgh Part 1" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ad003fc441b9f5d4acec00c2c8437862.jpg" group-title="Animasyon", The Seven Deadly Sins: Grudge of Edinburgh Part 1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/thesevendeadlysins/v.m3u8
-#EXTINF:-1 tvg-id="5520" tvg-name="Justice League: Warworld" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b428a5ef52623ba6aec5ecd124234c75.jpg" group-title="Animasyon", Justice League: Warworld
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/justiceleaguewarworld/v.m3u8
-#EXTINF:-1 tvg-id="5502" tvg-name="Resident Evil: Death Island" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4486501858d45b7b7aa5d5c361e31d67.jpg" group-title="Animasyon", Resident Evil: Death Island
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/ResidentEvilDeathIslandsUBe/v.m3u8
-#EXTINF:-1 tvg-id="5469" tvg-name="Ejderham ve Ben" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/28e5e6a296c79dbdfc04e3b93259418d.jpg" group-title="Animasyon", Ejderham ve Ben
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/dragonrider/v.m3u8
-#EXTINF:-1 tvg-id="5469" tvg-name="Ejderham ve Ben" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/28e5e6a296c79dbdfc04e3b93259418d.jpg" group-title="Animasyon", Ejderham ve Ben
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/dragonrideralt/v.m3u8
-#EXTINF:-1 tvg-id="5451" tvg-name="Ainbo" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c71f9480c8b6cb7832b9a2e2bfbeaa8b.jpg" group-title="Animasyon", Ainbo
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/ainbo/v.m3u8
-#EXTINF:-1 tvg-id="5429" tvg-name="Mumyalar" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/1909b5cfcd9b6acbea3da15eb8d12a82.jpg" group-title="Animasyon", Mumyalar
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/Mummies/v.m3u8
-#EXTINF:-1 tvg-id="5414" tvg-name="Muhteşem Kedi Maurice" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/14a09b762d57bb7172ba2bcf2d4d7e04.jpg" group-title="Animasyon", Muhteşem Kedi Maurice
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/muhtesemkedimaurice/v.m3u8
-#EXTINF:-1 tvg-id="5414" tvg-name="Muhteşem Kedi Maurice" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/14a09b762d57bb7172ba2bcf2d4d7e04.jpg" group-title="Animasyon", Muhteşem Kedi Maurice
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/muhkedimauricealt/v.m3u8
-#EXTINF:-1 tvg-id="5378" tvg-name="Black Clover: Sword of the Wizard King" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2ba50865c5b5fca782f7b9a2f9147759.jpg" group-title="Animasyon", Black Clover: Sword of the Wizard King
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/BCswordofthewizardking/v.m3u8
-#EXTINF:-1 tvg-id="5372" tvg-name="Çizmeli Kedi: Son Dilek" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/00e94ab4568eb6dee7a12151de1161ec.jpg" group-title="Animasyon", Çizmeli Kedi: Son Dilek
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/PussInBoots/v.m3u8
-#EXTINF:-1 tvg-id="5372" tvg-name="Çizmeli Kedi: Son Dilek" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/00e94ab4568eb6dee7a12151de1161ec.jpg" group-title="Animasyon", Çizmeli Kedi: Son Dilek
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/cizmelikedialt/v.m3u8
-#EXTINF:-1 tvg-id="5353" tvg-name="L.O.L. Surprise! Winter Fashion Show" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/26251f2850a3cdab81c4e8527d42d4cb.jpg" group-title="Animasyon", L.O.L. Surprise! Winter Fashion Show
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/lolsurprise/v.m3u8
-#EXTINF:-1 tvg-id="5312" tvg-name="Kuğu Prenses: Bir Peri Masalı Doğuyor" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e3e8273594be99f04daa89c2f63f41f0.jpg" group-title="Animasyon", Kuğu Prenses: Bir Peri Masalı Doğuyor
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/kuguprensesbirperimasalidoguyor/v.m3u8
-#EXTINF:-1 tvg-id="5311" tvg-name="One Piece Film: Red" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d52ffb1c1f49125d6fa73f5b10a6def5.jpg" group-title="Animasyon", One Piece Film: Red
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/onepiecefilmred/v.m3u8
-#EXTINF:-1 tvg-id="5280" tvg-name="Deep Sea" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4bdbf9600ff966d40d91bf7b0283e540.jpg" group-title="Animasyon", Deep Sea
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/DeepSea/v.m3u8
-#EXTINF:-1 tvg-id="5277" tvg-name="Batman: Gotham'a Gelen Kıyamet" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fa7720bfaa48f4095c06e42d52d0190f.jpg" group-title="Animasyon", Batman: Gotham'a Gelen Kıyamet
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/BatmanTheDoomThatCametoGotham/v.m3u8
-#EXTINF:-1 tvg-id="5262" tvg-name="Süper Mario Kardeşler Filmi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b75a8167610142dc873920521a908c29.jpg" group-title="Animasyon", Süper Mario Kardeşler Filmi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/SuperMarioKardesler/v.m3u8
-#EXTINF:-1 tvg-id="5255" tvg-name="Aya Sihirli Yolculuk" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a6cba7f2e056af635db0e0c1ae40d4ac.jpg" group-title="Animasyon", Aya Sihirli Yolculuk
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/AyaSihirliYolculuk/v.m3u8
-#EXTINF:-1 tvg-id="5233" tvg-name="Lamya'nın Şiiri" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/62e63ed5a1dec7eeba99ade83958cf6d.jpg" group-title="Animasyon", Lamya'nın Şiiri
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn812/m/Lamya/v.m3u8
-#EXTINF:-1 tvg-id="5190" tvg-name="Mad God" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/fb85bc34d391ee455b2ddf0b32019ae9.jpg" group-title="Animasyon", Mad God
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/7/cdn145/m/MadGod/v.m3u8
-#EXTINF:-1 tvg-id="5157" tvg-name="Marcel the Shell with Shoes On" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2273fd8b420a97b6436a1b876ece87af.jpg" group-title="Animasyon", Marcel the Shell with Shoes On
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/1/stream/dmNvZGVjIGxpYngyNjQgLXByZXNldCB1bHRyYWZhc3QgLXR1bmUgemVyb2/txt/M/17.03.2023/AyakkabiliDenizKabuguMarcel/v.m3u8
 #EXTINF:-1 tvg-id="5145" tvg-name="Titina" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d809a8a2fcd6c86c47197d575e9dfa24.jpg" group-title="Animasyon", Titina
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -5275,130 +4747,6 @@ https://load.rectv2024live.com/hls/2/cdn7/Filmler/Iyi.Ki.Yapmisim.2020.1080P.Nf.
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/trdublaj/Umuda.Kosan.Kizlar.2021.DUAL.1080p.NF.WEB-DL.DDP5.1.H.264-TURG.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2903" tvg-name="Sahilde Cinayet" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/52b5e4ef78b386b9c98ef98acd5624ea.jpg" group-title="Belgesel Filmleri", Sahilde Cinayet
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/trdublaj/Sahilde.Cinayet.2021.DUAL.1080p.NF.WEB-DL.DDP5.1.H.264-TURG.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2808" tvg-name="Friends: The Reunion" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/69df52846cfcd0ce0fe5e046f9b23155.jpg" group-title="Belgesel Filmleri", Friends: The Reunion
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/2/cdn7/Filmler/FriendsTheReunion.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2660" tvg-name="League of Legends Origins" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cd314be7fc129decfd8f15d7dca56cbe.jpg" group-title="Belgesel Filmleri", League of Legends Origins
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/2/cdn7/Filmler/yjfeqotsz9kc.1080p.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2597" tvg-name="Denizlerdeki Komplo" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/85bac646b364b44142144cfb2e6e2edc.jpg" group-title="Belgesel Filmleri", Denizlerdeki Komplo
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/6/cdn2/Movies/Seaspiracy.Denizlerdeki.Komplo.2021.Dual.1080P.Nf.Web-Dl.Ddp5.1.H.264-Turg-1.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2483" tvg-name="Çin Oyunu - The China Hustle" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/f57be79392131edd648c0072dcbf3e42.jpg" group-title="Belgesel Filmleri", Çin Oyunu - The China Hustle
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/Filmy/The.China.Hustle.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2469" tvg-name="Pelé" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2f74352f57d0dfba81b80091ac9cc264.jpg" group-title="Belgesel Filmleri", Pelé
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/Film/Pele.2021.DUAL.1080p.NF.WEB-DL.DDP5.1.H.264-TURG.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2457" tvg-name="Bir Nükhet Duru Filmi: Duru Olmak" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2583c41c3abbc6cabee0776260a3e0e4.jpg" group-title="Belgesel Filmleri", Bir Nükhet Duru Filmi: Duru Olmak
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/Film/Duru.Olmak.2020.1080p.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2313" tvg-name="Strip Down, Rise Up" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c31f4852d5127cbe589a0c508024264f.jpg" group-title="Belgesel Filmleri", Strip Down, Rise Up
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/cdn/series/test/Filmler/Dublaj/Strip.Down.Rise.Up.Kadinlarin.Direk.Dansiyla.Yukselisi.2021.DUAL.1080p.NF.WEB-DL.DDP5.1.H.264-TURG.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2251" tvg-name="Yaşayan Ölülerin Doğuşu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6f65751adcfeab1b061645523d52096c.jpg" group-title="Belgesel Filmleri", Yaşayan Ölülerin Doğuşu
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/6/cdn3/filmler/Dublaj/birth-of-the-living-dead.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2170" tvg-name="Megan Fox ile Kayıp Efsaneler" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b339a732b5a00fd3a59986f3867d91ac.jpg" group-title="Belgesel Filmleri", Megan Fox ile Kayıp Efsaneler
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/traltyazi/MeganFox.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2156" tvg-name="Crack: Cocaine, Corruption & Conspiracy" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/21388dd7e922900328f3b44b725e4260.jpg" group-title="Belgesel Filmleri", Crack: Cocaine, Corruption & Conspiracy
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/trdublaj/Crack.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2136" tvg-name="Tony Parker: The Final Shot" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ef50c3234b98111085bcceac500608b7.jpg" group-title="Belgesel Filmleri", Tony Parker: The Final Shot
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/6/cdn2/Movies/Dublaj/TonyParker.mp4/index.m3u8
-#EXTINF:-1 tvg-id="2051" tvg-name="The Minimalists: Less Is Now" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/00760e2315da9f84aa2bc4dac714687c.jpg" group-title="Belgesel Filmleri", The Minimalists: Less Is Now
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/trdublaj/TheMinimalists.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1814" tvg-name="Sama İçin" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/bdd7378aec0154e464dc0df2f0bff3c9.jpg" group-title="Belgesel Filmleri", Sama İçin
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/3/cdn4/movies/hd/mp4/forsama.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1722" tvg-name="Pavarotti" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/769d3a4ed95296f3aaf666a572f722a5.jpg" group-title="Belgesel Filmleri", Pavarotti
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/2/cdn5/cdn/movies/pawarotti.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1698" tvg-name="Sakkara’nın Sırları" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5d5b8485905823c794815ed64b666e5d.jpg" group-title="Belgesel Filmleri", Sakkara’nın Sırları
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/rectv/cdn/movies/new/sakkara.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1657" tvg-name="Roona’nın Hayatı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/06c98149822959f5365d74689e64d6fc.jpg" group-title="Belgesel Filmleri", Roona’nın Hayatı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/rectv/cdn/roana.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1656" tvg-name="Agnès, Varda’yı Anlatıyor" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/47b0464355689fcb27a3a78a46ff033a.jpg" group-title="Belgesel Filmleri", Agnès, Varda’yı Anlatıyor
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/rectv/cdn/varna.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1655" tvg-name="Vargit Zamanı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6068d60b51f58729ac3deb6b3a9a12cf.jpg" group-title="Belgesel Filmleri", Vargit Zamanı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/yeni/rectv/cdn/vargit.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1595" tvg-name="Blackpink: Light Up the Sky" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b671ed1cb015ff17f0d8def1d15ee240.jpg" group-title="Belgesel Filmleri", Blackpink: Light Up the Sky
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/2/cdn5/cdn/movies/fi13058290.en.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1303" tvg-name="Sosyal İkilem" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/753c0b6b8106ffb546264578d7106373.jpg" group-title="Belgesel Filmleri", Sosyal İkilem
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/6d5579e1be32bd9f627ceac485e54ec0.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1027" tvg-name="Rising Phoenix" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c3f4a1e48571edc4eb514995a0ef4c7e.jpg" group-title="Belgesel Filmleri", Rising Phoenix
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/9f9d95b78ff2bc27be14d6d11a81d36f.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1027" tvg-name="Rising Phoenix" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c3f4a1e48571edc4eb514995a0ef4c7e.jpg" group-title="Belgesel Filmleri", Rising Phoenix
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/8999dab3cecad4328d5cb3e34fc14dce.mp4/index.m3u8
-#EXTINF:-1 tvg-id="1013" tvg-name="Diego Maradona" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b7cf8c9439a3869ec0ea0e64fb928c22.jpg" group-title="Belgesel Filmleri", Diego Maradona
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/3/cdn6/movies/diger/maradona.mp4/index.m3u8
-#EXTINF:-1 tvg-id="919" tvg-name="Anelka: Misunderstood" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/07189b6f47bc266b9d701230c7a7b143.jpg" group-title="Belgesel Filmleri", Anelka: Misunderstood
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/c47bf1aaebb4c1950ec6d1934bd2a353.mp4/index.m3u8
-#EXTINF:-1 tvg-id="901" tvg-name="Cep Herkülü: Naim Süleymanoğlu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c5ecab254a21b6222d833a99324e549c.jpg" group-title="Belgesel Filmleri", Cep Herkülü: Naim Süleymanoğlu
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/5af33249c2101063d9b25a003677fdfe.mp4/index.m3u8
-#EXTINF:-1 tvg-id="831" tvg-name="Father Soldier Son" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/883ac7deaa93f8a9d07967b1c638ea4c.jpg" group-title="Belgesel Filmleri", Father Soldier Son
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/3/cdn6/movies/dublaj/FatherSoldier.mp4/index.m3u8
-#EXTINF:-1 tvg-id="439" tvg-name="Yaşar Kemal Efsanesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/88d2f166f42ebeace804188c46b507a3.jpg" group-title="Belgesel Filmleri", Yaşar Kemal Efsanesi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/2/cdn5/cdn2/13717/WF2FaHF5hbx7.mp4/index.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="A secret love - Gizli Aşk" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6b621df520841fef38f09d2b2997dff5.jpg" group-title="Belgesel Filmleri", A secret love - Gizli Aşk
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/2/cdn5/cdn2/13719/1506995145350.mp4/index.m3u8
-#EXTINF:-1 tvg-id="342" tvg-name="Apollo 11" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/10c5c00040f3b12b3a05c237e185a285.jpg" group-title="Belgesel Filmleri", Apollo 11
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://m.prectv50.sbs/uploads/m3u8/0d9cf37487a00f5fb8e4c94a8a3c2e3e.mp4/index.m3u8
-#EXTINF:-1 tvg-id="339" tvg-name="Kolej Havası" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c901a4c94ea2f4e6f5107d3397186196.jpg" group-title="Belgesel Filmleri", Kolej Havası
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/4/cdn1/cdn/movies/yerli/Kolej.Havasi.2019.mp4/index.m3u8
 #EXTINF:-1 tvg-id="337" tvg-name="Honeyland - Bal Ülkesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0833c9e0618d00bda2ffbe8f020a4ec3.jpg" group-title="Belgesel Filmleri", Honeyland - Bal Ülkesi
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -7971,6 +7319,14 @@ https://load.rectv2024live.com/hls/1/cdn783/m/TheIronMask.mp4/index.m3u8
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/1/cdn783/m/Dampyr2023.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9179" tvg-name="Hostile Takeover" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/cd5ddd476a242271bb430bc9d3bfeb48.jpg" group-title="Komedi", Hostile Takeover
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/b7tu5ZnJMmfKeP7EvwFkLcShfLmlvhQCNPp4i3pK.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9178" tvg-name="Neighborhood Watch" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3d62dca5c15a707b702ffd9a296fc825.jpg" group-title="Komedi", Neighborhood Watch
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://load.rectv2024live.com/hls/7/cdn21/GJZkQcJL4aRAs1ijHNoGrevA1BgRW81mmhPQigeB.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9168" tvg-name="Kneecap" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/2c31283eafef91bc890644063ba3c116.jpg" group-title="Komedi", Kneecap
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -8967,22 +8323,22 @@ https://load.rectv2024live.com/hls/11/cdn62/678c74e9c0739ee0936be4e1332e4fa61732
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/b98d0cf7f8efdf92d28885ffc92c0270173208960010.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8027" tvg-name="Hot Frosty" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/77d31b70df8d7d681056fd6dc9324ad9.jpg" group-title="Komedi", Hot Frosty
+#EXTINF:-1 tvg-id="9180" tvg-name="Kurtlar Kapıda" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/02dcd95de83608dcaec0ca0a23b603c2.jpg" group-title="Korku", Kurtlar Kapıda
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/dd0d371df50709709be71c961c2abe3017315750767.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8027" tvg-name="Hot Frosty" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/77d31b70df8d7d681056fd6dc9324ad9.jpg" group-title="Komedi", Hot Frosty
+https://load.rectv2024live.com/hls/7/cdn21/gHnUNVj31N1qbvxLcKExSzDgPlPJprzd8jf07YIj.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9177" tvg-name="Birthrite" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/52a63ad50556f68d3d35beee334dab39.jpg" group-title="Korku", Birthrite
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/4d8b4ef8b29d084784009cd5ddf68a7b17315750536.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8023" tvg-name="Deadpool & Wolverine (HD)" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/528151ab8b82bdf7c2b24241e08dc374.jpg" group-title="Komedi", Deadpool & Wolverine (HD)
+https://load.rectv2024live.com/hls/7/cdn21/YQJiINm2CZssXxtB2tIx9zvJFedWSWT1emA5g2zk.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9176" tvg-name="Shaman" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c4633f61b68fed457d597aed8f65be14.jpg" group-title="Korku", Shaman
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/a0c370020e71e09afb723c722c4e7a0a17314243207.mp4/index.m3u8
-#EXTINF:-1 tvg-id="8023" tvg-name="Deadpool & Wolverine (HD)" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/528151ab8b82bdf7c2b24241e08dc374.jpg" group-title="Komedi", Deadpool & Wolverine (HD)
+https://load.rectv2024live.com/hls/7/cdn21/hxFaJmNxuM0DlSlNHSn0cxUXU7xF4SOwsdA8o1MX.mp4/index.m3u8
+#EXTINF:-1 tvg-id="9175" tvg-name="Abraham's Boys: A Dracula Story" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e749bd8cd188f9b7128684cd0c1cd678.jpg" group-title="Korku", Abraham's Boys: A Dracula Story
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/92a47e127aa18f0a6fed71848022a250173142430315.mp4/index.m3u8
+https://load.rectv2024live.com/hls/7/cdn21/meMaK0QvCUuoImYp2Xuif9ePPCjyLgKDMJAEHAFd.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9172" tvg-name="Presence" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c3b59459c7fccc6a0e97f67868bf49c0.jpg" group-title="Korku", Presence
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -9879,174 +9235,6 @@ https://load.rectv2024live.com/hls/11/cdn62/1f7767c019cfe596cb4e82ffa750eb271728
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://load.rectv2024live.com/hls/11/cdn62/5475263f85748c660dce1da3a2886efd17282375988.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7846" tvg-name="Little Bites" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b9d80b9d5ca3f8947c4795cd454e8765.jpg" group-title="Korku", Little Bites
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5ad4d7557937dd662d10af58f9c476e517281232265.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7841" tvg-name="Beterböcek Beterböcek" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0014506995b7b214f79a805ff34e63fb.jpg" group-title="Korku", Beterböcek Beterböcek
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/bd20817fe24d5874ad7f9d9baf58a0de17280718659.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7841" tvg-name="Beterböcek Beterböcek" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/0014506995b7b214f79a805ff34e63fb.jpg" group-title="Korku", Beterböcek Beterböcek
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/5f129414f7e898fbc4a1cdb73b8cf25a17280719235.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7838" tvg-name="Salem's Lot" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c17a16cbf2ff89c980da1287815a2b0a.jpg" group-title="Korku", Salem's Lot
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/7f737a4a3ce32db892c50dc339decd92172803570813.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7836" tvg-name="House of Spoils" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e75691a577e07c096e6e4f01da4ce9ef.jpg" group-title="Korku", House of Spoils
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/d3b379cf177a95182c930796c460123617280356866.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7836" tvg-name="House of Spoils" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/e75691a577e07c096e6e4f01da4ce9ef.jpg" group-title="Korku", House of Spoils
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/f3736782e298f4da8ad43eaef923d9a417280357299.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7834" tvg-name="Nefesini Tut" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/73a268e410c859a951f885ef06157b6a.jpg" group-title="Korku", Nefesini Tut
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/c0ebb08e3edeebc387d31ed228a66bb417279589448.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7823" tvg-name="Sevgilim Kaç" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ff101f322131c38fe950a3b7f3b6a7a1.jpg" group-title="Korku", Sevgilim Kaç
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/7cb26b8d42b5ca5d5b950067236144a4172786294715.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7822" tvg-name="Here After" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/65ee604f24ae6c43bb87f987fed3d6b0.jpg" group-title="Korku", Here After
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/c37e3b125177f276daebc03619abe76017278629289.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7817" tvg-name="Katliam Gecesi" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/b1dfc0ca0e20c57e96b5130c22ec373e.jpg" group-title="Korku", Katliam Gecesi
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/ad5a4adcdd69f96d52f67e3d4f3f72cf172773098115.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7813" tvg-name="Apartment 7A" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/65242b5f5d2fdd2f210b5eaa47664cd2.jpg" group-title="Korku", Apartment 7A
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/bcc4b2daf5f8cf69b082bc6070a146ed172769486410.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7810" tvg-name="Sakın Ses Çıkarma" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/824dabf0dafeaa968c35d5b8ab9a4a15.jpg" group-title="Korku", Sakın Ses Çıkarma
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/66bb5663dde91b8aab61fc40be8644bc172761563410.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7810" tvg-name="Sakın Ses Çıkarma" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/824dabf0dafeaa968c35d5b8ab9a4a15.jpg" group-title="Korku", Sakın Ses Çıkarma
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/11/cdn62/66bb5663dde91b8aab61fc40be8644bc173003839315.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7801" tvg-name="Sunrise" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/ec05473f816c6643c82b67f165b18cb1.jpg" group-title="Korku", Sunrise
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/a3cd58970bcd23af0c6a28db5804fde5172744225513.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7788" tvg-name="Body Parts" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/4fefca174d2298689af8fccf034dfa97.jpg" group-title="Korku", Body Parts
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/8fba79045abfd8ae663e1ee02fc1e06217272601407.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7785" tvg-name="Baby Ruby" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7aac425aac1be73bb94051ba6d840704.jpg" group-title="Korku", Baby Ruby
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/f7b3254ba31514ff8ef70c9b19fed7e3172717594012.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7784" tvg-name="La mujer dormida" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/be7dab7f79d1f24a8cd0242bd807097c.jpg" group-title="Korku", La mujer dormida
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/1ce50af8ad7800a89989ebf19eb50e1b17271118209.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7777" tvg-name="Omen: İlk Kehanet" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a852a7e956e22fd56619a535abd90d4e.jpg" group-title="Korku", Omen: İlk Kehanet
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/bb94d303eae7c47687b5bcaff5f81210172683592115.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7769" tvg-name="Cuckoo" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7a01cfda8b15387bf2664628d716634d.jpg" group-title="Korku", Cuckoo
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/d29c8d992c0ff6c819589d07c6e2e41017266787545.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7769" tvg-name="Cuckoo" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/7a01cfda8b15387bf2664628d716634d.jpg" group-title="Korku", Cuckoo
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/809a17c7e69488b001803d75a3a0a6aa17266786465.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7768" tvg-name="Sizi Dinliyor" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dac83986eeea63406208364076958bd3.jpg" group-title="Korku", Sizi Dinliyor
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/33e53a92e502f0430e70b252de09b2e617266785739.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7768" tvg-name="Sizi Dinliyor" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/dac83986eeea63406208364076958bd3.jpg" group-title="Korku", Sizi Dinliyor
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/354882f828c31cf5854709df54c674c8172667965815.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7765" tvg-name="Siksa Kubur" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/92d3fb91963c64dc7bea2a862bd261ba.jpg" group-title="Korku", Siksa Kubur
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/399bde51b590631b57f31e855612eddf17266591788.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7760" tvg-name="Lore" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/992351a81f3d432f3a2fd90e02d60d41.jpg" group-title="Korku", Lore
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/afbd8c09530f708304ddaa51e76125f7172656539911.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7752" tvg-name="Katil Kim?" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/6fbfc05f7917bd749cade2ecd6b97b85.jpg" group-title="Korku", Katil Kim?
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/3cb99108ce26b273ea5bbce27bd733fd172651407713.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7745" tvg-name="Subservience" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/76d9393b0c47d8f2f9411e36de52efff.jpg" group-title="Korku", Subservience
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/4a852ca63e6d9ad7bb38af9984de77b217263050348.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7728" tvg-name="The Final Girls" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d01b94ead0b7a20b3774ce269c841dd0.jpg" group-title="Korku", The Final Girls
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/82ef3fd94b738616f138b25d25fe696d172604526313.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7724" tvg-name="Kuyu" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/8fcbdd80bfffd05de558b22b6843f021.jpg" group-title="Korku", Kuyu
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/1aa8c8d94e07e81936b17ad32ed760b817260432478.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7717" tvg-name="Succubus" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/02c051d08b78c922b1e5c3e0fa000ea7.jpg" group-title="Korku", Succubus
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/5b1fcea41fb844ebb5a71989fccfb1f0172582763711.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7704" tvg-name="Tutsak Abigail" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/45a4e860ca3682382ba3dcee36c1864a.jpg" group-title="Korku", Tutsak Abigail
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/16f87672b85c8a9e04a1ba9ede9a5c4d172554910813.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7704" tvg-name="Tutsak Abigail" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/45a4e860ca3682382ba3dcee36c1864a.jpg" group-title="Korku", Tutsak Abigail
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/b7800560cdd44678405c4169db9b0a0417255494679.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7701" tvg-name="Cuckoo" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/27892f3b3a7b6f70a3da2a9dca56c9a9.jpg" group-title="Korku", Cuckoo
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/d29c8d992c0ff6c819589d07c6e2e41017255330388.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7698" tvg-name="Resif: Kanlı Takip" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/a030c9f2b8d1acf707d3c29c7e24024b.jpg" group-title="Korku", Resif: Kanlı Takip
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/d83e4ad3ef9d23fc6b6f1f9874c16590172547778110.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7692" tvg-name="Darlin'" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3a70bf0aa2dbfee06c6c113d9e70d4c4.jpg" group-title="Korku", Darlin'
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/9af3d9de884bd7a57a5ce27f4d325442172547773712.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7678" tvg-name="Kurtuluş" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c31ee24d99dd238c22156b3be613d2b4.jpg" group-title="Korku", Kurtuluş
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/cdec5d3a997de2ec35138056723be297172501517311.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7678" tvg-name="Kurtuluş" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/c31ee24d99dd238c22156b3be613d2b4.jpg" group-title="Korku", Kurtuluş
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/2c927a31072eeebcb4ef06caee786e4317250879005.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7668" tvg-name="Oddity" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/5caac707c5cc9da3c816bc64aea9b6b0.jpg" group-title="Korku", Oddity
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/e31d53e59ab8d2618c76e53af5eeea2917246549066.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7665" tvg-name="Place of Bones" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/d60f7f195a8c215072f04cca597afa2f.jpg" group-title="Korku", Place of Bones
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/bbb078323665bf91830de711ae2efd7d17246007677.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7654" tvg-name="Paris'in Altında" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/3be56f8ada00b74c88d76885c7bf33c3.jpg" group-title="Korku", Paris'in Altında
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/15571d2da1520662237fc5dabacacefa172447506914.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7653" tvg-name="Ölüm Ormanı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/86d0f7f7778b3f2ae124412b503ed5bc.jpg" group-title="Korku", Ölüm Ormanı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/0bc617fd1d0784bbeb24d7ec0576cb9d172447498015.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7640" tvg-name="Öldürme Günü: Kanbağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/744bc22633cde91f10946b5f5d228404.jpg" group-title="Korku", Öldürme Günü: Kanbağı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/6dbd322ef4ff6538965b11c8f9b480f9172432301814.mp4/index.m3u8
-#EXTINF:-1 tvg-id="7640" tvg-name="Öldürme Günü: Kanbağı" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/744bc22633cde91f10946b5f5d228404.jpg" group-title="Korku", Öldürme Günü: Kanbağı
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://load.rectv2024live.com/hls/9/cdn501/0fc1413df936bd6b20cf21baddbc4f2217243230606.mp4/index.m3u8
 #EXTINF:-1 tvg-id="9162" tvg-name="Jurassic World: Rebirth" tvg-logo="https://m.prectv50.sbs/uploads/cache/poster_thumb/uploads/jpg/43f1775b43b981b5079be95c56c2d543.jpg" group-title="Macera", Jurassic World: Rebirth
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
